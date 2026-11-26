@@ -2,7 +2,7 @@
 
 I'm not a Cowboys fan, but I live in DFW, so I hear about them every day. After a debate with a friend, I wrote out a 4-step plan to fix the team, then tested every take with real NFL data.
 
-![Dashboard](dashboard/Cowboys_Rebuild_Dashboard.png)
+![Dashboard](Cowboys_Rebuild_Dashboard.png)
 
 ## The 4 takes
 
